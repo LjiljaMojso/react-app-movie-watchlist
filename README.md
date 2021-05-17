@@ -4,7 +4,7 @@ App made using React JS for searching movies and adding them to Watch list and W
 This is final React project in my coding bootcamp.
 
 # Status
-Project is: in progress
+Project is: finished
 
 ## Screen
 https://github.com/LjiljaMojso/ReactApp-MovieWatchlist/blob/master/src/img/printsc.jpeg
@@ -25,5 +25,4 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Sources
-This app is inspired by hbo go app and 
-and movie react app tutorial by Chris Blakely at https://www.freecodecamp.org/news/react-movie-app-tutorial/
+This app is inspired by hbo go app and movie react app tutorial by Chris Blakely at https://www.freecodecamp.org/news/react-movie-app-tutorial/
