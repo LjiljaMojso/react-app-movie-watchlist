@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 App made using React JS for searching movies and adding them to Watch list and Watched list.
+This is final React project in my coding bootcamp.
 
 # Status
 Project is: in progress
