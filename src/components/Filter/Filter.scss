@@ -36,12 +36,11 @@ div.filter {
   
     option {
       background-color:#282E45 ;
-    }
-  }
+  } 
+
   
   @media screen and (max-width: 600px) {
     div.filter {
       flex-direction: column;
     }
-  }
-  
+  }}

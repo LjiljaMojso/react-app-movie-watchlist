@@ -97,7 +97,7 @@ class Search extends Component {
                       place="top"
                       effect="solid"
                       type="info"
-                      backgroundColor="rgb(0, 174, 255);"
+                      backgroundColor="rgb(148, 31, 227);"
                     >
                       {" "}
                       <span> Add to List </span>{" "}

@@ -77,7 +77,7 @@ function MovieList({
                   place="top"
                   effect="solid"
                   type="info"
-                  backgroundColor="#7154A"
+                  backgroundColor="rgb(148, 31, 227)"
                 >
                   <span> Watched Movie </span>
                 </ReactTooltip>
@@ -87,6 +87,7 @@ function MovieList({
                   place="top"
                   effect="solid"
                   type="error"
+                  backgroundColor="rgb(148, 31, 227)"
                 >
                   <span> Delete Movie </span>
                 </ReactTooltip>
