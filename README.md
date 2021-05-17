@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+App made using React JS for searching movies and adding them to Watch list and Watched list.
+
+# Status
+Project is: in progress
 
 ## Available Scripts
 
