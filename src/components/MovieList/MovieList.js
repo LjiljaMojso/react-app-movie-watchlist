@@ -77,7 +77,7 @@ function MovieList({
                   place="top"
                   effect="solid"
                   type="info"
-                  backgroundColor="rgb(0, 174, 255);"
+                  backgroundColor="#7154A"
                 >
                   <span> Watched Movie </span>
                 </ReactTooltip>
