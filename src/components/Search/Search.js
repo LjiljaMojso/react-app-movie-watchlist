@@ -135,7 +135,7 @@ class Search extends Component {
                     showSearch();
                   }}
                 >
-                  Movie Watchlist
+                  My Movie Watchlist
                 </h3>
               </Link>
             </div>

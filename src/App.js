@@ -5,7 +5,7 @@ import Fade from "react-reveal/Fade";
 import { Communicator } from "./Communicator";
 
 import "./App.scss";
-import { BrowserRouter, Route, Link } from "react-router-dom";
+import { BrowserRouter, Route } from "react-router-dom";
 
 import { Search } from "./components/Search/Search";
 import { MovieList } from "./components/MovieList/MovieList";
