@@ -15,7 +15,7 @@ This is final React project in my coding bootcamp.
 - When eye icon is clicked, movie should be moved to Watched section
 - When genre name is clicked, only movies including that genre should be displayed
 - When Reset filters button is clicked, all movies should be displayed again
-- For API movies use http://www.omdbapi.com
+- For API movies was used http://www.omdbapi.com
 
 
 # Status
