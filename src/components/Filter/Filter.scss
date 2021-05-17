@@ -1,0 +1,48 @@
+div.filter {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 120px;
+    flex-wrap: wrap;
+    opacity: 0.99;
+  
+    h3 {
+      font-size: 1.3em;
+      font-weight: bold;
+    }
+  
+    select,
+    button {
+      width: 150px;
+      border-radius: 15px;
+      color: #7154AF;
+      font-size: 1.2em;
+      background-color: transparent;
+      outline: none;
+      border: 2px solid white;
+      padding: 10px 20px;
+      height: 50px;
+      cursor: pointer;
+  
+      -webkit-appearance: none;
+      transition: 0.3s;
+      &:hover {
+        box-shadow: 0 0 10px white;
+      }
+    }
+  
+    select {
+      width: 150px;
+    }
+  
+    option {
+      background-color:#282E45 ;
+    }
+  }
+  
+  @media screen and (max-width: 600px) {
+    div.filter {
+      flex-direction: column;
+    }
+  }
+  
