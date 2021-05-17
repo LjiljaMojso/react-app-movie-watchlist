@@ -6,6 +6,9 @@ This is final React project in my coding bootcamp.
 # Status
 Project is: in progress
 
+## Screen
+https://github.com/LjiljaMojso/ReactApp-MovieWatchlist/blob/master/src/img/printsc.jpeg
+
 ## Technologies Used
 - React Js
 - JavaScript
