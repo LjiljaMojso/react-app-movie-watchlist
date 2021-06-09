@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-app-movie-watchlist/static/css/main.3cc4bccc.chunk.css",
+    "main.js": "/react-app-movie-watchlist/static/js/main.8c8c79b0.chunk.js",
+    "main.js.map": "/react-app-movie-watchlist/static/js/main.8c8c79b0.chunk.js.map",
+    "runtime-main.js": "/react-app-movie-watchlist/static/js/runtime-main.3fd5790f.js",
+    "runtime-main.js.map": "/react-app-movie-watchlist/static/js/runtime-main.3fd5790f.js.map",
+    "static/js/2.8f0d201d.chunk.js": "/react-app-movie-watchlist/static/js/2.8f0d201d.chunk.js",
+    "static/js/2.8f0d201d.chunk.js.map": "/react-app-movie-watchlist/static/js/2.8f0d201d.chunk.js.map",
+    "index.html": "/react-app-movie-watchlist/index.html",
+    "static/css/main.3cc4bccc.chunk.css.map": "/react-app-movie-watchlist/static/css/main.3cc4bccc.chunk.css.map",
+    "static/js/2.8f0d201d.chunk.js.LICENSE.txt": "/react-app-movie-watchlist/static/js/2.8f0d201d.chunk.js.LICENSE.txt",
+    "static/media/loader.25d6d7d6.gif": "/react-app-movie-watchlist/static/media/loader.25d6d7d6.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3fd5790f.js",
+    "static/js/2.8f0d201d.chunk.js",
+    "static/css/main.3cc4bccc.chunk.css",
+    "static/js/main.8c8c79b0.chunk.js"
+  ]
+}
